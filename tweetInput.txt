@@ -1,0 +1,10 @@
+RandomThoughts:personal
+nowayout:personal
+pastRepeats:personal
+MondayMotivation:personal
+coolChange:personal
+travel:personal
+NewsAlert:news
+COP27:news
+todaysnews:news
+headlines:news
