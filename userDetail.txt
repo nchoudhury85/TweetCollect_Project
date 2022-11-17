@@ -1,0 +1,3 @@
+bUser:abc@134:personal
+cUser:bca@4321:news
+dUser:tab@9876:personal,news
